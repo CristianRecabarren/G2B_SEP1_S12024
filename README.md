@@ -4,7 +4,7 @@ Repositorio ramo SEP1/SEPA 2024 S1
 Carpeta G2B_Tarea1Certamen2
 <br> 
 Esta carpeta lleva los contenidos de las evaluaciones correspondientes.
-Carpeta (Insertar nombre de nuestra carpeta ismaa)
+Carpeta Tarea2
 <br>
 Esta carpeta lleva la información sobre el modelamiento de una línea de transmisión utilizando como entorno de codificación [Python]
 mediante Visual Studio Code.
