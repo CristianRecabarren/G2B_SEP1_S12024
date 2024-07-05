@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" modified="2024-06-20T21:35:34.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="T7iBfSEEtCqiXKXepEZN" version="24.4.13" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-0" target="jsnrFvsy2pi8nYUeFHBs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-0" value="Iniciar proyecto" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="10" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-2" target="jsnrFvsy2pi8nYUeFHBs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-2" value="Definir tareas y crear repositorio" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="100" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-3" target="jsnrFvsy2pi8nYUeFHBs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-3" value="Establecer limites de trabajo por normativa eléctrica" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-4" target="jsnrFvsy2pi8nYUeFHBs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-4" value="Instalar programas y dependencias necesarias" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-5" target="jsnrFvsy2pi8nYUeFHBs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-5" value="Definir Sketch de trabajo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-9" target="jsnrFvsy2pi8nYUeFHBs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-9" value="Definir tareas de cada individuo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-11" target="jsnrFvsy2pi8nYUeFHBs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-11" value="Programacion figura A&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-13" target="jsnrFvsy2pi8nYUeFHBs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-13" value="Establecer limites de normativa para el caso de estudio" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-17" target="jsnrFvsy2pi8nYUeFHBs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-17" value="Modelamiento linea de transmision" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-19" target="jsnrFvsy2pi8nYUeFHBs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-19" value="Establecimiento de parametros correspondientes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-21" target="jsnrFvsy2pi8nYUeFHBs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-21" value="Simulacion" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-23" target="jsnrFvsy2pi8nYUeFHBs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-23" target="jsnrFvsy2pi8nYUeFHBs-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-23" value="Cumple con la normativa?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="420" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-25" value="No necesitamos aplicar medidas" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="435" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-27" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="438" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-28" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="508" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-29" target="jsnrFvsy2pi8nYUeFHBs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-29" value="Graficar." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-31" target="jsnrFvsy2pi8nYUeFHBs-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-31" value="Realizar compensaciones e investigar/proponer metodos" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-33" target="jsnrFvsy2pi8nYUeFHBs-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-33" value="Graficar valores corregidos y responder preguntas" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-35" target="jsnrFvsy2pi8nYUeFHBs-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-35" value="Simular casos propuestos" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-37" value="Terminar proyecto" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="1040" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsnrFvsy2pi8nYUeFHBs-40" target="jsnrFvsy2pi8nYUeFHBs-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnrFvsy2pi8nYUeFHBs-40" value="Realizar informe&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
