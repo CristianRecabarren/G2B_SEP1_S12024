@@ -1,5 +1,8 @@
-Repositorio ramo SEP1/SEPA 2024 S1
-
+## Repositorio ramo SEP1/SEPA 2024 S1
+## Integrantes
+Ismael Cabrera Segundo 
+<br>
+Cristian Recabarren Mallea
 ## Estructura de Carpetas
 Carpeta G2B_Tarea1Certamen2
 <br> 
